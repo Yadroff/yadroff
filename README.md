@@ -69,12 +69,12 @@ Labs have writeen on C (1st lab on bash)
   
   <li><details>
     <summary> Operation Systems</summary>
-    <!--START_SECTION:os-->
+    <!--START_SECTION:op_sys-->
     Operatyon Systems labs have written on C. Using operation system Linux (Fedora).
     
     1. [Process][os_h1]. Теперь я знаю, что fork - это не вилка.
     2. [Threads][os_h2]. Calculate the area of a circle using the Monte-Carlo method.
-    <!--END_SECTION:os-->
+    <!--END_SECTION:op_sys-->
       
   </details>
   </li>
@@ -98,5 +98,5 @@ Labs have writeen on C (1st lab on bash)
 [oop_h2]: https://github.com/Yadroff/OOP/tree/master/2_lab
 [oop_h3]: https://github.com/Yadroff/OOP/tree/master/3_lab
 [oop_h4]: https://github.com/Yadroff/OOP/tree/master/4_lab
-[os_h1] : https://github.com/Yadroff/OS/tree/master/2_lab
-[os_h2] : https://github.com/Yadroff/OS/tree/master/3_lab
+[os_h1]: https://github.com/Yadroff/OS/tree/master/2_lab
+[os_h2]: https://github.com/Yadroff/OS/tree/master/3_lab
