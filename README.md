@@ -74,6 +74,9 @@ Labs have writeen on C (1st lab on bash)
     
     1. [Process][os_h1]. Теперь я знаю, что fork - это не вилка.
     2. [Threads][os_h2]. Calculate the area of a circle using the Monte-Carlo method.
+    <!--END_SECTION:os-->
+      </detaiols>
+    </li>
 </ul>
 
 [telegram_link]: https://t.me/yadrofff
