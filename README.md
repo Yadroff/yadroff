@@ -69,6 +69,7 @@ Labs have writeen on C (1st lab on bash)
   
   <li><details>
     <summary> Operation Systems</summary>
+      
     <!--START_SECTION:op_sys-->
     Operatyon Systems labs have written on C. Using operation system Linux (Fedora).
     
