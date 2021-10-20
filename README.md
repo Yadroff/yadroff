@@ -34,6 +34,19 @@
 
 <ul>
 <li><details>
+    <summary>Fundamental informatics and computing systems</summary>
+
+<!--START_SECTION:1_sem_labs-->
+Labs have written on C, also there are programms for Turing mashine.
+    
+1. [Labs][labs_1sem_h1].
+2. [Course project][labs_1sem_h2].
+<!--END_SECTION:!_sem_labs-->
+    
+</details>
+    </li>
+    
+<li><details>
     <summary>Languages and Programming Methods labs</summary>
   
 <!--START_SECTION:1_course_labs-->
@@ -75,6 +88,7 @@ Labs have writeen on C (1st lab on bash)
   
   1. [Prcoess][os_h1]. Now I know that a fork is not only a cutlery
   2. [Threads][os_h2]. Calculate the area of a circle using the Monte Carlo method
+  3. [File mappng][os_h3].
   <!--END_SECTION:oop-->
   
   </details>
@@ -87,6 +101,8 @@ Labs have writeen on C (1st lab on bash)
 [vk_link]: https://vk.com/yadrofff
 [vk_badge]: https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white
 
+[labs_1sem_h1]: https://github.com/Yadroff/labs_1sem
+[labs_1sem_h2]: https://github.com/Yadroff/KP_1sem
 [labs_h1]: https://github.com/Yadroff/labs_2sem/tree/main/21_lab
 [labs_h2]: https://github.com/Yadroff/labs_2sem/tree/main/23_lab
 [labs_h3]: https://github.com/Yadroff/labs_2sem/tree/main/24_lab
@@ -101,3 +117,4 @@ Labs have writeen on C (1st lab on bash)
 [oop_h4]: https://github.com/Yadroff/OOP/tree/master/4_lab
 [os_h1]: https://github.com/Yadroff/OS/tree/master/2_lab
 [os_h2]: https://github.com/Yadroff/OS/tree/master/3_lab
+[os_h3]: https://github.com/Yadroff/OS/tree/master/4_lab
