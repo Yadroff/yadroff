@@ -83,13 +83,15 @@ Labs have writeen on C (1st lab on bash)
 <li><details>
   <summary> Operation Systems</summary>
   
-  <!--START_SECTION:oop-->
+  <!--START_SECTION:os-->
   Operation Systems labs have written on C for Linux.
   
-  1. [Prcoess][os_h1]. Now I know that a fork is not only a cutlery
-  2. [Threads][os_h2]. Calculate the area of a circle using the Monte Carlo method
-  3. [File mappng][os_h3].
-  <!--END_SECTION:oop-->
+  2. [Prcoess][os_h1]. Now I know that a fork is not only a cutlery
+  3. [Threads][os_h2]. Calculate the area of a circle using the Monte Carlo method
+  4. [File mappng][os_h3].
+  5. [Libraries][os_h4]. Create 2 libraries and 2 programms, which use these libraries.
+  6. [0MQ][os_h5]. Implement a distributed system for asynchronous request processing.
+  <!--END_SECTION:os-->
   
   </details>
   </li>
@@ -118,3 +120,5 @@ Labs have writeen on C (1st lab on bash)
 [os_h1]: https://github.com/Yadroff/OS/tree/master/2_lab
 [os_h2]: https://github.com/Yadroff/OS/tree/master/3_lab
 [os_h3]: https://github.com/Yadroff/OS/tree/master/4_lab
+[os_h4]: https://github.com/Yadroff/OS/tree/master/5_lab
+[os_h5]: https://github.com/Yadroff/OS/tree/master/6-8_lab
