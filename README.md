@@ -26,9 +26,7 @@
 ![Python](https://img.shields.io/badge/python-F2F4F9?style=for-the-badge&logo=python&logoColor=blue&labelColor=F2F4F9)
 ![Latex](https://img.shields.io/badge/latex-F2F4F9?style=for-the-badge&logo=latex&logoColor=grey&labelColor=F2F4F9)
 ![PyCharm](https://img.shields.io/badge/Pycharm-F2F4F9?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=F2F4F9)
-#### Currently learning
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![SymPy](https://img.shields.io/badge/sympy-777BB4?style=for-the-badge&logo=sympy&logoColor=white)
+
 
 ### Projects
 
@@ -91,6 +89,7 @@ Labs have writeen on C (1st lab on bash)
   4. [File mappng][os_h3].
   5. [Libraries][os_h4]. Create 2 libraries and 2 programms, which use these libraries.
   6. [0MQ][os_h5]. Implement a distributed system for asynchronous request processing.
+  7. [Course Project][os_kp]. Console-server game "Bulls and cows", implemented on pipes
   <!--END_SECTION:os-->
   
   </details>
@@ -122,3 +121,4 @@ Labs have writeen on C (1st lab on bash)
 [os_h3]: https://github.com/Yadroff/OS/tree/master/4_lab
 [os_h4]: https://github.com/Yadroff/OS/tree/master/5_lab
 [os_h5]: https://github.com/Yadroff/OS/tree/master/6-8_lab
+[os_kp]: https://github.com/Yadroff/OS/tree/master/KP
