@@ -1,124 +1,83 @@
-# yadroff
-> You can find me in almost any of social networks by this nickname
+<div align="center">
+   <h1>Hi there, I'm Artem</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   
+   
+   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
+</div>
 
-### Hi there, I'm Artem - aka yadroff
+<p align='center'>
+   <a href="https://t.me/yadrofff"><img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram contact""></a>&nbsp;&nbsp;
+<a href="https://vk.com/yadrofff"><img height="30" src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"></a>&nbsp;&nbsp;
 
-[![Telegram contact][telegram_badge]][telegram_link]
-[![VK profile][vk_badge]][vk_link]
 
 
-## I'm a student, athlete and developer
+<div align="center">
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 🙎 Artem Yadrov  | :ru: Moscow, Russia <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+</div>
+ 
+ <h5 align="center">
+   <i>⚡️На свете существует 10 типов людей: те, кто понимает двоичную систему счисления, и те, кто не понимает.⚡️</i>
+  </h5>
+ 
+ 
+<br />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/40dEau6bZRO3S/giphy.gif" />
+<p align="center">
+  <h3> I'm 20 years old student and developer</h3>
+</p>
 
 - 🕸 Now I am at 2nd course of MAI
-- 📚 I am taking part with team in opencups
+- 📚 I am taking part with team in opencupswidth="200" height="400"width="200" height="400"
 - 👟 My favourite distanse at athlete is 400 meters
 - 🙇‍♂️ Now I am learning OOP, Operation Systems and it's really intresting
-- 🤔 Any questions? [Contact with me](#hi-there-im-artem---aka-yadroff)
+
+ 
+<h2 align="center"> 👨🏻‍💻 Languages and Tools </h2>
+<p align="center">
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+</p>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=yadroff&theme=react&border=61dafb&hide_border=true" alt="yadroff" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=yadroff&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadroff&hide=c%23,powershell,Mathematica,Ruby,html,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=yadroff&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
+
+<hr>
+
+<!--  -->
+
+<br />
+
+ ### - What i do
 
 
-### Languages and Tools
-#### Currently in use
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-3776AB?style=for-the-badge&logo=c&logoColor=white)
-![Fedora](https://img.shields.io/badge/fedora-F2F4F9?style=for-the-badge&logo=fedora&logoColor=blue&labelColor=F2F4F9)
-![CLion](https://img.shields.io/badge/Clion-F2F4F9?style=for-the-badge&logo=clion&logoColor=black&labelColor=F2F4F9)
-#### Familiar with
-![Python](https://img.shields.io/badge/python-F2F4F9?style=for-the-badge&logo=python&logoColor=blue&labelColor=F2F4F9)
-![Latex](https://img.shields.io/badge/latex-F2F4F9?style=for-the-badge&logo=latex&logoColor=grey&labelColor=F2F4F9)
-![PyCharm](https://img.shields.io/badge/Pycharm-F2F4F9?style=for-the-badge&logo=pycharm&logoColor=black&labelColor=F2F4F9)
+<br />
 
-
-### Projects
-
-<ul>
-<li><details>
-    <summary>Fundamental informatics and computing systems</summary>
-
-<!--START_SECTION:1_sem_labs-->
-Labs have written on C, also there are programms for Turing mashine.
-    
-1. [Labs][labs_1sem_h1].
-2. [Course project][labs_1sem_h2].
-<!--END_SECTION:!_sem_labs-->
-    
-</details>
-    </li>
-    
-<li><details>
-    <summary>Languages and Programming Methods labs</summary>
-  
-<!--START_SECTION:1_course_labs-->
-Labs have writeen on C (1st lab on bash)
-
-1. [Bash][labs_h1] script.
-2. [Trees][labs_h2] realization.
-3. [Expression trees][labs_h3].
-4. [Modular programming][labs_h4] and abstract data types,utility make.
-5. [File structure][labs_h5].
-6. [Sprace matrices][labs_h6].
-7. [List][labs_h7].
-8. [Sort and search][labs_h8] - sorting a table and binary search for a value by key in the table
-<!--END_SECTION:1_course_labs-->
-
-</details>
-</li>
-
-<li><details>
-  <summary> Object Oriented Programming</summary>
-  
-  <!--START_SECTION:oop-->
-  Objest Oriented Programming labs have written on C++
-  
-  1. [Basic concepts][oop_h1] OOP. Create virtual class and 3 inheritor classes.
-  2. [Container][oop_h2]. Create container (queue) of class.
-  3. [Smart Pointers][oop_h3]. Change pointers at container to smart pointers.
-  4. [Templates][oop_h4]. Change container to template class.
-  <!--END_SECTION:oop-->
-  
-  </details>
-  </li>
-  
-<li><details>
-  <summary> Operation Systems</summary>
-  
-  <!--START_SECTION:os-->
-  Operation Systems labs have written on C for Linux.
-  
-  2. [Prcoess][os_h1]. Now I know that a fork is not only a cutlery
-  3. [Threads][os_h2]. Calculate the area of a circle using the Monte Carlo method
-  4. [File mappng][os_h3].
-  5. [Libraries][os_h4]. Create 2 libraries and 2 programms, which use these libraries.
-  6. [0MQ][os_h5]. Implement a distributed system for asynchronous request processing.
-  7. [Course Project][os_kp]. Console-server game "Bulls and cows", implemented on pipes
-  <!--END_SECTION:os-->
-  
-  </details>
-  </li>
-</ul>
-
-[telegram_link]: https://t.me/yadrofff
-[telegram_badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram contact"
-
-[vk_link]: https://vk.com/yadrofff
-[vk_badge]: https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white
-
-[labs_1sem_h1]: https://github.com/Yadroff/labs_1sem
-[labs_1sem_h2]: https://github.com/Yadroff/KP_1sem
-[labs_h1]: https://github.com/Yadroff/labs_2sem/tree/main/21_lab
-[labs_h2]: https://github.com/Yadroff/labs_2sem/tree/main/23_lab
-[labs_h3]: https://github.com/Yadroff/labs_2sem/tree/main/24_lab
-[labs_h4]: https://github.com/Yadroff/labs_2sem/tree/main/25-26_lab
-[labs_h5]: https://github.com/Yadroff/labs_2sem/tree/main/KP6
-[labs_h6]: https://github.com/Yadroff/labs_2sem/tree/main/KP7
-[labs_h7]: https://github.com/Yadroff/labs_2sem/tree/main/KP8
-[labs_h8]: https://github.com/Yadroff/labs_2sem/tree/main/KP9
-[oop_h1]: https://github.com/Yadroff/OOP/tree/master/1_lab
-[oop_h2]: https://github.com/Yadroff/OOP/tree/master/2_lab
-[oop_h3]: https://github.com/Yadroff/OOP/tree/master/3_lab
-[oop_h4]: https://github.com/Yadroff/OOP/tree/master/4_lab
-[os_h1]: https://github.com/Yadroff/OS/tree/master/2_lab
-[os_h2]: https://github.com/Yadroff/OS/tree/master/3_lab
-[os_h3]: https://github.com/Yadroff/OS/tree/master/4_lab
-[os_h4]: https://github.com/Yadroff/OS/tree/master/5_lab
-[os_h5]: https://github.com/Yadroff/OS/tree/master/6-8_lab
-[os_kp]: https://github.com/Yadroff/OS/tree/master/KP
+<p align="center">
+   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" />   
+   </p>
+   
+   
+<br />
