@@ -27,7 +27,7 @@
 </p>
 
 - 🕸 Now I am at 2nd course of MAI
-- 📚 I am taking part with team in opencupswidth="200" height="400"width="200" height="400"
+- 📚 I am taking part with team in opencups
 - 👟 My favourite distanse at athlete is 400 meters
 - 🙇‍♂️ Now I am learning OOP, Operation Systems and it's really intresting
 
