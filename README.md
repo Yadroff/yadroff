@@ -33,15 +33,10 @@
 
  
 <h2 align="center"> 👨🏻‍💻 Languages and Tools </h2>
-<p align="center">
-  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/qt/qt.png"></code>
-  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
-  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
-  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-  <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-</p>
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cmake,qt,c,bash,sqlite,py&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=github,idea,linux,vim,latex&theme=dark" />
+  </a>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -61,16 +56,17 @@
     </a>
   </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=yadroff&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
 <hr>
 
 <!--  -->
 
 <br />
 
+<div align="center">
+
 <h1> - What i do </h1>
+
+</div>
 
 
 <br />
