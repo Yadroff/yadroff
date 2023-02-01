@@ -26,7 +26,7 @@
   <h3> I'm 20 years old student and developer</h3>
 </p>
 
-- 🕸 Now I am at 2nd course of MAI
+- 🕸 Now I am at 3rd course of MAI
 - 📚 I am taking part with team in opencups
 - 👟 My favourite distanse at athlete is 400 meters
 - 🙇‍♂️ Now I am learning OOP, Operation Systems and it's really intresting
