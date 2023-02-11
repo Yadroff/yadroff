@@ -58,6 +58,18 @@
   </div>
   <br><br><br><br><br><br><br><br><br>
 
+<h1 align="center"> Some Projects </h1>
+<div align=center>
+<a = href"https://github.com/yadroff/DA">
+   <img width = 390 img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yadroff&repo=DA&theme=react&border=61dafb&hide_border=true" />
+   </a>
+<a = href"https://github.com/yadroff/BD_KP">
+   <img width = 390 img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=yadroff&repo=BD_KP&theme=react&border=61dafb&hide_border=true" />
+   </a>
+ </div>
+<br><br><br><br><br><br><br><br>
+
+
 <!--  -->
 
 
