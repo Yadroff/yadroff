@@ -1,9 +1,7 @@
 <div align="center">
    <h1>Hi there, I'm Artem</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    
-   
-   <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
-</div>
+   </div>
 
 <p align='center'>
    <a href="https://t.me/yadrofff"><img height="30" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white "Telegram contact""></a>&nbsp;&nbsp;
