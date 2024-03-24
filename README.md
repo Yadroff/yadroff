@@ -21,7 +21,7 @@
  
  
 <br />
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/40dEau6bZRO3S/giphy.gif" />
+<img align="right" alt="GIF" src="https://64.media.tumblr.com/32269687a10da2fe12026a446585deac/tumblr_pgbl4mzY0p1tp82kso1_400.gif" />
 <p align="center">
   <h3> I'm 20 years old student and developer</h3>
 </p>
@@ -66,6 +66,9 @@
 <a href="https://github.com/yadroff/BD_KP">
    <img width = 390 img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=yadroff&repo=BD_KP&theme=react&border=61dafb&hide_border=true" />
    </a>
+<a href="https://github.com/yadroff/PGP">
+   <img width = 390 img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=yadroff&repo=PGP&theme=react&border=61dafb&hide_border=true" />
+   </a>
  </div>
 <br><br><br><br><br><br><br><br>
 
@@ -83,7 +86,7 @@
 <br />
 
 <p align="center">
-   <img src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" />   
+   <img src="https://github.com/Yadroff/PGP/blob/master/tools/CP/test/output/out.gif" />   
    </p>
    
    
